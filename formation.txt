@@ -1,0 +1,2 @@
+J'apprends à utiliser git
+j'ajoute un ligne à mon fichier
